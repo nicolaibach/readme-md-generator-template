@@ -1,0 +1,20 @@
+{
+  "name": "readme-md-generator-template",
+  "version": "0.0.1",
+  "description": "Custom templates for [readme-md-generator](https://github.com/kefranabg/readme-md-generator).",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaibach/readme-md-generator-template.git"
+  },
+  "keywords": [],
+  "author": "Nicolai Bach <mail@nicolaibach.de> (http://nicolaibach.de)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/nicolaibach/readme-md-generator-template/issues"
+  },
+  "homepage": "https://github.com/nicolaibach/readme-md-generator-template#readme"
+}
